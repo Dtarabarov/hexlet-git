@@ -13,5 +13,3 @@ sfgfsgfdgdfgfd
 fdgfdgdfsgdfgdfsg
 
 nu vot tak
-
-dgdsfgdsfgsdf
