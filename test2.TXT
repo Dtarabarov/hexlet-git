@@ -1,3 +1,4 @@
 тест первого документа
 add line
 hot hot hot
+stash 2 test
